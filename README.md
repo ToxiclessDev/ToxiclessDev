@@ -1,7 +1,7 @@
 # ToxiclessDev
 
 *Más que un programador, soy un desarrollador.*
-*Siempre hay una solución simple a un problema complejo... Y simepre hay una solución compleja a un problema simple.*
+*Siempre hay una solución simple a un problema complejo... Y siempre hay una solución compleja a un problema simple.*
 ---
 
 ## ¿Quién soy?
