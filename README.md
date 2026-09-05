@@ -10,9 +10,9 @@ Soy **ToxiclessDev (al menos aquí)**
 
 Soy fiel a una idea simple: **el internet debería ser libre, y el software que en él habita también**. Eso significa Toxicless, Linux, Android. Eso significa código abierto, accesible, sin cadenas corporativas... O al menos no tan exigentes.
 
-Trabajo bajo **ToxizityCorps** no es una compañía al uso. Es la sombrilla madre de todos los proyectos que vayan surgiendo. Somos Tungsten, somos yo, somos quienes construimos con el corazón y con un propósito para el mundo.
+Trabajo bajo **ToxizityCorps** no es una compañía al uso. Es la sombrilla madre de todos los proyectos que vayan surgiendo. Somos Tungsten, somos yo, somos quienes construimos con el corazón a base de puro taka-taka en el teclado y con un propósito para el mundo.
 
-**No hago mis proyectos para iOS.** Quien lo haga, será demandado. No es capricho es soberanía ante un sistema tan cerrado.
+**No hago mis proyectos para iOS.** Quien lo haga, será demandado. No es capricho es que simplemente iOS no sigue los principios en los que creo... Y estoy seguro que deben de haber muchas alternativas.
 
 Soy un **desarrollador**. Un pensador. Un arquitecto de sistemas que creen en la libertad antes que la ganancia desmedida.
 
@@ -38,15 +38,13 @@ Todo lo que construyo bajo ToxizityCorps sigue este principio: **tu libertad no 
 - **Linux** ✓
 - **Windows** ✓
 - **Android** ✓
-- **iOS** ✗ (Por principio. Demanda a quien intente portarlo.)
-
-La razón es simple: iOS es un jardín cerrado controlado por Apple. No contradice mis valores construir para él.
+- **iOS** ✗ (Por meros principios.)
 
 ---
 
 ## Tecnologías
 
-Trabajo con lo que el proyecto necesita, no con lo que está de moda:
+Trabajo con lo que el proyecto necesita y vaya surgiendo:
 
 - **Lenguajes**: JavaScript, Python, SQL (y aprendiendo más)
 - **Frontend**: HTML, CSS, React
@@ -59,7 +57,9 @@ Actualmente aprendiendo **japonés, Ruso, Alemán** porque hay que expandir los 
 
 ## Proyectos
 
-Pronto. Estoy siendo intencional con lo que publico. Calidad sobre cantidad.
+- 3x+1 Versión Base
+
+Pronto más. Estoy siendo intencional con lo que publico. Calidad sobre cantidad.
 
 ---
 
@@ -72,7 +72,7 @@ Pronto. Estoy siendo intencional con lo que publico. Calidad sobre cantidad.
 
 ## Filosofía
 
-- open Source:
+- open Source
 
 ---
 
